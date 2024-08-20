@@ -1,9 +1,9 @@
-Aqui está a documentação do projeto sem incluir trechos de código:
+        Documentação do Projeto: Player de Música
+
+
 ![Interface do Projeto](images/preview.png)
 
 
-
-Documentação do Projeto: Player de Música
 
 Visão Geral
 
