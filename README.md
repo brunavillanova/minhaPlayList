@@ -1,5 +1,10 @@
 Aqui está a documentação do projeto sem incluir trechos de código:
+![Interface do Projeto](images/preview.png)
+
+
+
 Documentação do Projeto: Player de Música
+
 Visão Geral
 
 Este projeto implementa um player de música interativo usando HTML, CSS e JavaScript. O player oferece uma experiência completa de reprodução de músicas, incluindo funcionalidades como tocar, pausar, avançar e retroceder faixas, ajuste de barra de progresso, botão de curtida, shuffle, repetição e muito mais. Todas as configurações do usuário, como curtir músicas ou ativar o shuffle, são salvas no localStorage para que sejam mantidas mesmo após recarregar a página.
