@@ -28,6 +28,12 @@ const watchTheWord = {
     file: 'watch_the_word',
     liked: false,
   };
+  const newSong2 = {
+    songName: 'the devil in',
+    artist: 'Slipknot',
+    file: 'the_devil_in',
+    liked: false,
+  }
 
 // Estado inicial
 let isPlaying = false;
@@ -37,6 +43,7 @@ let repeatOn = false;
 // Configuração da playlist
 const initialPlaylist = [
     newSong1,
+    newSong2,
     watchTheWord,  // Adicione esta linha
   ];
 
