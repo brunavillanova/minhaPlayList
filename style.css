@@ -95,3 +95,22 @@ button {
   margin-top: 0.5em;
   
 }
+footer {
+  background-color: #3a3838; /* Cor de fundo do rodapé */
+  text-align: center; /* Centraliza o texto */
+  padding: 10px 0; /* Espaçamento dentro do rodapé */
+  position: fixed; /* Fixa o rodapé na parte inferior */
+  width: 100%; /* Faz o rodapé ocupar toda a largura da página */
+  bottom: 0; /* Mantém o rodapé na parte inferior */
+  font-family: Arial, sans-serif; /* Fonte do texto */
+  color: #ffffff; /* Cor do texto */
+  font-size: 14px; /* Tamanho da fonte padrão */
+}
+
+/* Ajustes para dispositivos móveis */
+@media (max-width: 600px) {
+  footer {
+    font-size: 12px; /* Reduz o tamanho da fonte em dispositivos móveis */
+    padding: 8px 0; /* Ajusta o espaçamento */
+  }
+}
